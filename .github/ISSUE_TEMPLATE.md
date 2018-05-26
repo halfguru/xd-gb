@@ -1,6 +1,6 @@
-* xd-gb version:
-* Python version:
-* Operating System:
+* xd-gb version: 0.1.0
+* Python version: 3.6.2
+* Operating System: Win64
 
 ### Description
 
